@@ -5,9 +5,9 @@
     <table class="table table-striped table-hover">
         <thead>
             <tr>
-                <th scope="col">Title</th>
-                <th scope="col">Author</th>
-                <th scope="col">Created</th>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Created</th>
             </tr>
         </thead>
         <tbody>
